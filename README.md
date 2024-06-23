@@ -63,10 +63,6 @@ Command-line options and configuration parameters will be documented here.
 
 Contributions are welcome! Please submit pull requests and report issues via the GitHub issue tracker.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
-For any questions or comments, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or comments, please contact [bourouhamza9@gmail.com](mailto:bourouhamza9@gmail.com).
