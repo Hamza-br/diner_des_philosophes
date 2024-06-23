@@ -42,7 +42,7 @@ To compile and run the simulator, follow the steps below:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Hamza-br/diner_des_philosophes
-   cd your-repo
+   cd diner_des_philosophes
    ```
 
 2. Compile the program:
